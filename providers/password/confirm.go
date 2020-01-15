@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"time"
 
-	"qor_auth/claims"
+	"github.com/qor/auth/claims"
 
 	"github.com/qor/auth/auth_identity"
 	"github.com/qor/mailer"

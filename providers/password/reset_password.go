@@ -11,7 +11,7 @@ import (
 
 	auth "github.com/qor/auth"
 	"github.com/qor/auth/auth_identity"
-	"qor_auth/claims"
+	"github.com/qor/auth/claims"
 
 	"github.com/qor/mailer"
 	"github.com/qor/qor/utils"
