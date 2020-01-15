@@ -1,4 +1,4 @@
-module github.com/prowayne/qor_auth
+module github.com/qor/auth
 
 go 1.13
 
