@@ -5,7 +5,7 @@ import (
 	"path"
 	"strings"
 
-	"qor_auth/claims"
+	"github.com/prowayne/qor_auth/claims"
 )
 
 // NewServeMux generate http.Handler for auth

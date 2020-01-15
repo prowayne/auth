@@ -2,15 +2,16 @@ package password
 
 import (
 	"errors"
+	auth "github.com/prowayne/qor_auth"
 	"html/template"
 	"net/mail"
 	"path"
 	"reflect"
 	"time"
 
-	"qor_auth"
-	"qor_auth/auth_identity"
 	"qor_auth/claims"
+
+	"github.com/prowayne/qor_auth/auth_identity"
 	"github.com/qor/mailer"
 	"github.com/qor/qor/utils"
 	"github.com/qor/session"

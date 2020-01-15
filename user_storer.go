@@ -5,9 +5,9 @@ import (
 	"reflect"
 
 	"github.com/jinzhu/copier"
+	"github.com/prowayne/qor_auth/claims"
 	"github.com/qor/qor/utils"
-	"qor_auth/auth_identity"
-	"qor_auth/claims"
+	"github.com/prowayne/qor_auth/auth_identity"
 )
 
 // UserStorerInterface user storer interface

@@ -3,8 +3,8 @@ package auth_identity
 import (
 	"time"
 
-	"qor_auth/claims"
 	"github.com/jinzhu/gorm"
+	"github.com/prowayne/qor_auth/claims"
 )
 
 // AuthIdentity auth identity session model

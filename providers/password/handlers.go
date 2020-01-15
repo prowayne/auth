@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"strings"
 
-	"qor_auth"
-	"qor_auth/auth_identity"
-	"qor_auth/claims"
+	"github.com/prowayne/qor_auth"
+	"github.com/prowayne/qor_auth/auth_identity"
+	"github.com/prowayne/qor_auth/claims"
 	"github.com/qor/qor/utils"
 	"github.com/qor/session"
 )
